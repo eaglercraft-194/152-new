@@ -10,8 +10,6 @@
 
 (right click the link and press 'Save link as...' to download the file)
 
-### A new server list site is under construction
-
 **For any questions you can join the discord server and hit me up there [https://discord.gg/KMQW9Uvjyq](https://discord.gg/KMQW9Uvjyq)**
 
 ## What is Eaglercraft?
