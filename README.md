@@ -3,12 +3,14 @@
 ### Note: we will be transitioning away from Eaglercraft being standalone 'free browser minecraft' to Eaglercraft being a bukkit/bungee plugin for servers to allow 'online access' to players who register with a command as their real online-mode Minecraft account on the server. Server owners can still elect to set `online-mode=false` in their server.properties to allow free login but now that's their legal screw up instead of mine :trollface:
 
 #### The official repo has been deleted. This is just a fork of Eaglercraft meant to preserve Eaglercraft.
+##### Also, the server list at g.eags.us and the site itself are gone.
+###### Use ~~https://g.deev.is/ [removed from the site]~~ [Eaglercraft RU](https://eaglercraft.ru).
 
 ![eaglercraft](https://cdn.discordapp.com/attachments/378764518081429506/964047481849643018/new_github_screenshot.png)
 
-### Official Demo URL: [https://g.eags.us/eaglercraft/](https://g.eags.us/eaglercraft/)
+### Official Demo URL: ~~[https://g.eags.us/eaglercraft/](https://g.eags.us/eaglercraft/)~~ No longer available
 
-### Download Locally: [stable-download/Offline_Download_Version.html](https://github.com/LAX1DUDE/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)
+### Download Locally: ~~[stable-download/Offline_Download_Version.html](https://github.com/LAX1DUDE/eaglercraft/raw/main/stable-download/Offline_Download_Version.html)~~ No longer available
 
 (right click the link and press 'Save link as...' to download the file)
 
